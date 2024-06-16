@@ -5,6 +5,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-M-IDIR&theme=tokyonight" alt="mystreak"/>
 </div>
 
-<hr />
+<h1></h1>
 
 <p align="center">📫 How to reach me :-: <a href="https://www.linkedin.com/in/a-m-idir/">LinkedIn</a> | <a href="https://t.me/A_M_IDIR">Telegram</a> | <a href="#">am.idir.contact@gmail.com</a></p>
