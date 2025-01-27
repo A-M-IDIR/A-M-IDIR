@@ -2,7 +2,7 @@
 <h3 align="center">Your Friendly Neighbourhood Software Engineer.</h3>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=A-M-IDIR&theme=radical" alt="mystreak"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=A-M-IDIR&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <h1></h1>
