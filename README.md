@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IDIR</h1>
-<h3 align="center">Your Friendly Neighbourhood Software Engineer.</h3>
+<h3 align="center">Full-Stack Software Engineer.</h3>
 
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app?user=A-M-IDIR&theme=tokyonight-duo&hide_border=true" alt="STREAK" />
