@@ -2,7 +2,7 @@
 <h3 align="center">Your Friendly Neighbourhood Software Engineer.</h3>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-M-IDIR&theme=radical" alt="STREAK" />
+<img src="https://nirzak-streak-stats.vercel.app?user=A-M-IDIR&theme=tokyonight-duo&hide_border=true" alt="STREAK" />
 </div>
 
 <h1></h1>
