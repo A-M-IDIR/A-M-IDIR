@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Qwarters. Custom software." width="100%">
+  <img src="assets/banner-light.png" alt="Software engineer. Web apps, mobile apps, desktop apps and sites. qwarters.dev" width="100%">
 </picture>
 
 <br><br>
@@ -10,7 +10,7 @@ I'm **Idir**, a full-stack engineer. Under the name **Qwarters** I design and bu
 <p>
   <a href="https://qwarters.dev/start"><img src="assets/key-start.png" alt="Start a project" height="48"></a>&nbsp;
   <a href="https://qwarters.dev"><img src="assets/key-site.png" alt="qwarters.dev" height="48"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/idir-am/"><img src="assets/key-linkedin.png" alt="LinkedIn" height="48"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/a-m-idir/"><img src="assets/key-linkedin.png" alt="LinkedIn" height="48"></a>&nbsp;
   <a href="mailto:am.idir.contact@gmail.com"><img src="assets/key-email.png" alt="Email" height="48"></a>
 </p>
 
@@ -20,20 +20,25 @@ I'm **Idir**, a full-stack engineer. Under the name **Qwarters** I design and bu
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://qwarters.dev/work/onboard"><img src="assets/onboard.jpg" alt="Onboard: a client's set-up in the browser, with an Excel import and a chat with the team"></a>
-      <h3>Onboard</h3>
-      <p>Client set-up, in one link. Each new client fills in their set-up step by step, and the team gets a file ready to plug in.</p>
+    <td width="33%" valign="top">
+      <a href="https://qwarters.dev/work/lineup"><img src="assets/lineup.png" alt="Lineup: a phone app for the production floor, a step's ticket with its timer, signed as it's done"></a>
+      <h3>Lineup</h3>
+      <p>The production record, signed on the floor.</p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://qwarters.dev/work/scalp"><img src="assets/scalp.jpg" alt="Scalp: a trading app on the web and on a phone"></a>
+    <td width="33%" valign="top">
+      <a href="https://qwarters.dev/work/onboard"><img src="assets/onboard.png" alt="Onboard: a new client's set-up as a staircase of steps, five of fourteen done"></a>
+      <h3>Onboard</h3>
+      <p>Client set-up, in one link.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://qwarters.dev/work/scalp"><img src="assets/scalp.png" alt="Scalp: a trading app's risk dial, the day's limit filling up"></a>
       <h3>Scalp</h3>
-      <p>A trading app built to say no. Any market, on the web or a phone. Practise on any past day, and keep every tick.</p>
+      <p>A trading app built to say no.</p>
     </td>
   </tr>
 </table>
 
-Both built for private clients. The full stories are on [qwarters.dev/work](https://qwarters.dev/work).
+All built for private clients. The full stories are on [qwarters.dev/work](https://qwarters.dev/work).
 
 <br>
 
