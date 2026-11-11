@@ -38,7 +38,7 @@ I'm **Idir**, a full-stack engineer. Under the name **Qwarters** I design and bu
   </tr>
 </table>
 
-All built for private clients. The full stories are on [qwarters.dev/work](https://qwarters.dev/work).
+The full stories are on [qwarters.dev/work](https://qwarters.dev/work).
 
 <br>
 
